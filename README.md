@@ -1,28 +1,37 @@
 # Hi, I'm Rudra Sutariya! 👋🏼
 
-I'm a Frontend & Mobile App Developer with 2+ years of professional experience building modern, responsive, and user-friendly applications.
+I'm a Full Stack & Mobile App Developer with 2+ years of professional experience building modern, responsive, and user-friendly applications for the web and for iOS and Android.
+
+## 📱 Featured Work
+
+**[Sophie AI](https://apps.apple.com/us/app/speak-with-sophie/id6759192122)** — AI language learning app with voice conversations and instant corrections. Live on the [App Store](https://apps.apple.com/us/app/speak-with-sophie/id6759192122) and [Google Play](https://play.google.com/store/apps/details?id=ai.speakwithsophie.app). *React Native, Expo*
+
+**[Airveek](https://airveek.com)** — AI creative platform for generating product visuals and logos. Designed and built end to end, including auth and payments. *React, Next.js, TypeScript*
+
+**[Toycker](https://toycker.com)** — Fully custom ecommerce platform with a large catalog, membership pricing and reward points. Built from scratch, no Shopify. *React, Next.js, Supabase*
+
+**[Remityn](https://wise-lime.vercel.app/)** — Cross-border remittance platform with live currency conversion and a transparent fee breakdown. *React, Next.js, TypeScript*
 
 ## 🚀 Skills
 
-- **Frontend:** React.js, Next.js, TypeScript, JavaScript.
-- **Mobile:** React Native, Expo.
-- **Styling:** Tailwind CSS, CSS, Responsive Web Design.
-- **State Management:** Zustand, Redux.
-- **Backend & Database:** Supabase, PostgreSQL, REST APIs.
-- **Tools:** Git, GitHub, VS Code, Vercel.
-- **Development Workflow:** AI-assisted development, debugging, optimization, and rapid prototyping.
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript
+- **Mobile:** React Native, Expo
+- **Styling:** Tailwind CSS, CSS, Responsive Web Design
+- **State Management:** Zustand, Redux
+- **Backend & Database:** Supabase, PostgreSQL, REST APIs
+- **Tools:** Git, GitHub, VS Code, Vercel
 
-I'm passionate about building clean, scalable, and high-performance web and mobile applications. I focus on creating smooth user experiences, responsive interfaces, and maintainable code while using modern development tools and AI-assisted workflows to deliver products efficiently.
+## 💼 What I Work On
 
-I enjoy working on real-world products, SaaS applications, eCommerce platforms, and mobile applications, and I'm always looking to improve my skills and build solutions that provide real value to users and businesses.
+I build real products, not demos: SaaS applications, ecommerce platforms and mobile apps that go all the way to production. That usually means handling the full picture, from the interface and component architecture to authentication, database design, payments and deployment.
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/rudrasutariya/](https://www.linkedin.com/in/rudrasutariya/)
-- **GitHub:** [https://github.com/rudra2410](https://github.com/rudra2410)
-- **Portfolio:** [https://rudra-devs.vercel.app/](https://rudra-devs.vercel.app/)
+- **Hire me on Contra:** [contra.com/rudrasutariya](https://contra.com/rudrasutariya)
+- **Portfolio:** [rudra-devs.vercel.app](https://rudra-devs.vercel.app/)
+- **LinkedIn:** [in/rudrasutariya](https://www.linkedin.com/in/rudrasutariya/)
 
-If you're looking for a Frontend Developer for a project, freelance work, or a development opportunity, feel free to connect with me.
+If you're building something and need a Full Stack or React Native developer, feel free to reach out. I'm open to freelance projects and longer engagements.
 
 Thanks,
 
