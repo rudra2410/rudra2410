@@ -4,13 +4,13 @@ I'm a Full Stack & Mobile App Developer with 2+ years of professional experience
 
 ## 📱 Featured Work
 
-**[Sophie AI](https://apps.apple.com/us/app/speak-with-sophie/id6759192122)** — AI language learning app with voice conversations and instant corrections. Live on the [App Store](https://apps.apple.com/us/app/speak-with-sophie/id6759192122) and [Google Play](https://play.google.com/store/apps/details?id=ai.speakwithsophie.app). *React Native, Expo*
-
 **[Airveek](https://airveek.com)** — AI creative platform for generating product visuals and logos. Designed and built end to end, including auth and payments. *React, Next.js, TypeScript*
 
 **[Toycker](https://toycker.com)** — Fully custom ecommerce platform with a large catalog, membership pricing and reward points. Built from scratch, no Shopify. *React, Next.js, Supabase*
 
 **[Remityn](https://wise-lime.vercel.app/)** — Cross-border remittance platform with live currency conversion and a transparent fee breakdown. *React, Next.js, TypeScript*
+
+**[Sophie AI](https://apps.apple.com/us/app/speak-with-sophie/id6759192122)** — AI language learning app with voice conversations and instant corrections. Live on the [App Store](https://apps.apple.com/us/app/speak-with-sophie/id6759192122) and [Google Play](https://play.google.com/store/apps/details?id=ai.speakwithsophie.app). *React Native, Expo*
 
 ## 🚀 Skills
 
